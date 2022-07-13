@@ -17,6 +17,7 @@ body {
 }
 
 h1 {
+      font-family: "Script";
       font-weight: bold;
       grid-column: span 3;
       text-align: center;
@@ -153,5 +154,6 @@ footer {
             font-size: 1.2rem;
             margin: 0;
             padding-bottom: 2rem;
+            color: #ffb6c1;
       }
 }
