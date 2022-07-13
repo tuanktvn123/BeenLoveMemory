@@ -92,11 +92,13 @@ anni {
 #info .one {
       grid-column: 3 / 6;
       text-align: center;
+      color: #ffb6c1;
 }
 
 #info .two {
       grid-column: 8 / 11;
       text-align: center;
+      color: #ffb6c1;
 }
 
 footer {
