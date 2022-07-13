@@ -108,6 +108,7 @@ footer {
       font-size: 1.6rem;
       font-weight: lighter;
       margin-top: 1.2rem;
+      color: #ffb6c1;
 }
 
 #music {
@@ -154,6 +155,5 @@ footer {
             font-size: 1.2rem;
             margin: 0;
             padding-bottom: 2rem;
-            color: #ffb6c1;
       }
 }
